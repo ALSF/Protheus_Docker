@@ -5,7 +5,7 @@ Base de testes docker para testes
 
 criar as seguintes pastas 
 
-na raiz do projeto **protheus_volume** dentro de protheus_ volume criar as seguintes pastas **apo** e **protheus_data**
+na raiz do projeto **totvs_volume** dentro de protheus_ volume criar as seguintes pastas **apo** e **protheus_data**
 e dentro de protheus_data criar as seguintes pastas **Semaforo** , **System**, **Systemload** no final deverá ficar da seguinte forma
 
 totvs_volume
