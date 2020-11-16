@@ -30,6 +30,27 @@ apos baixar todos os requisitos e criar as pastas no diretorio do projeto agora 
 descompacte o RPO o arquivo tera este nome **tttp120.rpo** ele deverá ser colocado na pasta que criamos **apo**
 
 
+## 3. passo subindo base
+
+com o docker instalado e aberto, agora devemos abrir o powerShell no diretorio do projeto e vamos executar deste comando **docker-compose up** assim começara a baixar todas as dependencias do projeto.
+
+
+## 4. conexoes ao banco e protheus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
